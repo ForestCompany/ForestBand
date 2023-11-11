@@ -1,0 +1,2 @@
+﻿  main.c
+D:\учеба\uchc++\sdlpleas\sdlpleas\main.c(1,9): fatal  error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,

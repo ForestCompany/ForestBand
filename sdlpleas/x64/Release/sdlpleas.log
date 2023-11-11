@@ -1,0 +1,10 @@
+﻿  main.c
+D:\учеба\uchc++\sdlpleas\sdlpleas\main.c(35,14): warning C4020: InitMap: слишком много фактических параметров
+D:\учеба\uchc++\sdlpleas\sdlpleas\main.c(121,20): warning C4244: функция: преобразование "const double" в "Uint32", возможна потеря данных
+  Создание кода
+D:\учеба\uchc++\sdlpleas\sdlpleas\main.c(124): warning C4716: SDL_main: должна возвращать значение
+  2 of 10 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  sdlpleas.vcxproj -> D:\учеба\uchc++\sdlpleas\x64\Release\sdlpleas.exe
